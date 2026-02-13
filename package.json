@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build:netlify": "npm install --legacy-peer-deps && npm run build"
   },
   "dependencies": {
     "@lottiefiles/dotlottie-react": "^0.6.0",
