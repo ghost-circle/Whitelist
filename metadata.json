@@ -1,0 +1,6 @@
+
+{
+  "name": "Ghost Circle - Private L2 on Sui",
+  "description": "Ghost Circle is a ZK-Rollup Layer 2 Privacy Solution on Sui blockchain that enables private, anonymous transactions using zero-knowledge proofs and Pedersen commitments.",
+  "requestFramePermissions": []
+}
